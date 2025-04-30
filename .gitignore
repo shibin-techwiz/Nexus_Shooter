@@ -1,0 +1,61 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Content
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+# --- Unreal Engine Auto-Generated Folders ---
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# --- IDE Folders ---
+.vscode/
+.vs/
+
+# --- User-specific files ---
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+
+# --- Mac-specific ---
+*.DS_Store
+
+# --- Windows-specific ---
+Thumbs.db
+
+# --- Temporary / Cache / Logs ---
+*.tmp
+*.bak
+*.old
+*.log
+
+# --- Compiled Binary Files ---
+*.dll
+*.exe
+*.pdb
+
+# --- iOS/macOS generated files ---
+*.xcodeproj
+*.xcworkspace
+
+# --- Android generated files (optional) ---
+*.apk
+*.obb
